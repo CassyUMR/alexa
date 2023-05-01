@@ -1,0 +1,32 @@
+p {
+    text-align: center;
+    font-size: 32px;
+    font-family: Candara, Oswald;
+    color: red;
+}
+body{
+    background-color: rgb(186, 255, 255);
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+div{
+    margin: 0 auto;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
+#botao1 {
+    margin: 0 auto;
+}
+
+#botao2 {
+    margin: 0 auto;
+}
+#botao1, #botao2{
+    border: none;
+    border-radius: 20px;
+    background: rgb(221, 142, 255);
+}
